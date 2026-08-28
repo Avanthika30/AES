@@ -1,4 +1,8 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
+## NAME: AVANTHIKA.B
+## REG.NO: 212224040039
+## DEPT: CSE III YEAR
+## DATE: 06.08.2026
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
